@@ -1,3 +1,50 @@
+# DATAVAULT 
+
+
+`` ITRODUCTION ``
+### Current online storage solutions face several challenges related to centralized control, data security, trust, and cost. These limitations impact users' ability to securely store and access their data  and maintain data privacy. Additionally, concerns arise regarding the reliability, transparency, and scalability of existing storage platforms.
+
+`` SOLUTION ``
+### We are proposing an alternative storage solution, DataVAULT that addresses these pain points and leverages the benefits of blockchain technology. DataVAULT provides decentralized control, enhanced security, transparent auditability, data privacy and ownership, trust, and collaboration capabilities. By solving these challenges, DataVAULT aims to revolutionize the way individuals and organizations store and share data, empowering them with greater control, security, and accessibility while fostering a trusted and efficient storage ecosystem.
+
+`` TECHNOLOGY ``
+### DataVault uses the advantages tha filecoin and filecoin virtual machine (FVM ) provides to provide users with the on-chain decentralized application on which they can trust and smoothly store their data, and be assured to retrieve them any time anywhere.
+ `` ..... ``
+ ### The top programming languages used are Solidity and Javascript , but to be more specific we can mention Reactjs, tailwind,Solidity , Hardhat as helper-frameworks etc
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # FEVM Hardhat Kit
 
 ## Cloning the Repo
