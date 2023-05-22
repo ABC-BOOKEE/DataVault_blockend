@@ -1,7 +1,7 @@
 // SPDX-License-Identifier:MIT
 pragma solidity ^0.8.7;
 
-contract DataVault {
+contract syncVault {
     /*STATE VARIABLES */
 
     address private i_owner;
